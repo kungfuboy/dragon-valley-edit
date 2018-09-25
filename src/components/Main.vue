@@ -88,7 +88,7 @@ export default class Main extends Vue {
   private copy(value: any): void {
     let res = null
     if (typeof value === 'object') {
-      res = JSON.stringify(value)
+      res = 'export default ' + JSON.stringify(value)
     } else {
       res = value
     }
