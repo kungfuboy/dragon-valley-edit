@@ -26,7 +26,7 @@ export default {
   },
   falcon: {
     label: '夜隼',
-    mark: '大魔王 & 夜鹰小徒弟',
+    mark: '夜鹰小徒弟 & 专业拆台',
     uid: 'falcon'
   },
   swallow: {
